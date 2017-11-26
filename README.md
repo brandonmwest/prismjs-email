@@ -1,6 +1,8 @@
 # prismjs-email
 A prism.js language definition for syntax highlighting of raw email messages
 
+![Example](example.png)
+
 Currently highlights:
 * Headers
 * X-Headers
